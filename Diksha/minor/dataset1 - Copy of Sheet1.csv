@@ -1,0 +1,566 @@
+YEAR,Sponsor Name,Prev Year Revenue,Current Year Revenue,Total Profit,Growth
+2010,Adidas ,11,13.021,2,yes
+2010,American Express,24.31,27.48,3.17,yes
+2010,AT&T,122.77,124.28,1.51,yes
+2010,BBVA,32.36,33.71,1.35,yes
+2010,Nike,18,20,1,yes
+2010,Coca-Cola,35.11,30.99,-4.12,no
+2010,T-Mobile,3.48,4.06,0.58,yes
+2010,McDonald's,22.74,24.07,1.33,yes
+2010,cisco,34.8,41.76,6.96,yes
+2010,Verizon,107.8,106.56,-1.24,no
+2010,HP,1.66,2.07,0.41,yes
+2010,Toyota,183.22,226.29,43.07,yes
+2010,EA sports,3.53,3.47,-0.06,no
+2010,Foot Locker,4.84,4.98,0.14,yes
+2010,UPS,45.29,49.54,4.25,yes
+2010,Hyundai,80,58.62,-21.38,no
+2010,PepsiCo,43.23,57.83,14.6,yes
+2010,Ford,116.92,128.95,12.03,yes
+2010,Lenovo,15.05,20.97,5.92,yes
+2010,Puma,3.45,3.57,0.12,yes
+2010,Under Armour,0.85,1.06,0.21,yes
+2010,SAP,15.03,16.41,1.38,yes
+2010,Kaiser Permanente,0.98,1.07,0.09,yes
+2010,ESPN,36.08,39.04,2.96,yes
+2010,Fedex,32.39,37.21,4.82,yes
+2010,Yum! ,10.83,11.34,0.51,yes
+2011,Chase,0.12,0.12,0,no
+2011,Panasonic,102.33,100.92,-1.41,no
+2011,Samsung,133.94,146.33,12.39,yes
+2011,Sony,84.89,81.71,-3.18,no
+2011,McDonald's,24.07,27,2.93,yes
+2011,T-Mobile,4.06,4.84,0.78,yes
+2011,Kia motors,30361,"39,263.00","8,902.00",yes
+2011,Adidas,13.6,13.62,0.02,yes
+2011,BBVA,32.84,38.12,5.28,yes
+2011,Nike,20,22.47,2.47,yes
+2011,Coca-Cola,46.54,35.11,-11.43,no
+2011,Toyota,226.29,221.22,-5.07,no
+2011,United Airlines,23.25,37.11,13.86,yes
+2011,ESPN,39.04,40.95,1.91,yes
+2011,Microsoft,66.69,72.05,5.36,yes
+2011,Oracle,31.99,36.7,4.71,yes
+2011,AT&T,124.28,126.72,2.44,yes
+2011,Yum! ,11.34,12.62,1.28,yes
+2011,Foot Locker,4.98,5.51,0.53,yes
+2011,American Airlines,14.572,13.944,-0.628,no
+2011,Hp,2.07,2.68,0.61,yes
+2011,Under Armour,1.06,1.47,0.41,yes
+2011,Goodyear,18.83,22.76,3.93,yes
+2011,western union,5.19,5.49,0.3,yes
+2011,Ford,128.95,136.96,8.01,yes
+2011,Warner bros,3.77,4.22,0.45,yes
+2011,Humana,30.96,36.83,5.87,yes
+2011,Mondelez,49.2,54.36,5.16,yes
+2011,Budweiser,36.29,39.04,2.75,yes
+2011,Verizon,106.56,110.87,4.31,yes
+2011,American Express,27.48,29.96,2.48,yes
+2011,Hyundai,80,77.28,-2.72,no
+2011,Mondelez,49.2,54.36,5.16,yes
+2011,StubHub,9.2,11.7,2.5,yes
+2011,Mastercard,5.539,6.714,1.175,yes
+2011,Ups,49.54,53.1,3.56,yes
+2012,Kia Motors,38.48,43.13,4.65,yes
+2012,Sprint,5.1,11.509,6.409,yes
+2012,Coca Cola,71.9,74,2.1,yes
+2012,BBVA Compass,32.84,38.12,5.28,yes
+2012,Nike ,22.47,24.55,2.08,yes
+2012,Microsoft,72.05,72.93,0.88,yes
+2012,PepsiCo,66.5,65.49,-1.01,no
+2012,American express,29.96,31.55,1.59,yes
+2012,Samsung,146.43,184.22,37.79,yes
+2012,ESPN,40.95,42.84,1.89,yes
+2012,AT&T,126.72,127.43,0.71,yes
+2012,Ford,136.96,134.25,-2.71,no
+2012,Goodyear,22.76,20.99,-1.77,no
+2012,Hp,2.68,3.26,0.58,yes
+2012,IBM,106.91,104.5,-2.41,no
+2012,T-Mobile,4.84,12.33,7.49,yes
+2012,Under Armour,1.47,1.83,0.36,yes
+2012,Verizon,110.87,115.84,4.97,yes
+2012,Yum! ,12.62,13.63,1.01,yes
+2012,Google,37.9,48.97,11.07,yes
+2012,Foot Locker,5.51,5.97,0.46,yes
+2012,Toyota,268.95,251.82,-17.13,no
+2012,United Airlines,37.11,37.15,0.04,yes
+2012,McDonald's,27,27.56,0.56,yes
+2012,mastercard,6.714,7.391,0.677,yes
+2012,Cisco,43.72,46.68,2.96,yes
+2012,EA sports,3.86,3.95,0.09,yes
+2012,SAP,19.51,21.11,1.6,yes
+2012,Warner Bros,4.22,4.48,0.26,yes
+2012,Delta Air lines,35.11,36.67,1.56,yes
+2012,Chase,0.12,0.17,0.05,yes
+2013,kia motors,43.13,43.83,0.7,yes
+2013,Disney,42.84,46,3.16,yes
+2013,Microsoft,72.93,83.43,10.5,yes
+2013,Samsung,184.22,210.86,26.64,yes
+2013,Coca Cola,46.85,48.01,1.16,yes
+2013,Foot Locker,5.97,6.42,0.45,yes
+2013,State Farm,33.21,68.3,35.09,yes
+2013,Hp,3.26,3.43,0.17,yes
+2013,Under Armour,1.83,2.33,0.5,yes
+2013,Western Union,5.66,5.54,-0.12,no
+2013,AT&T,127.43,128.75,1.32,yes
+2013,American express,31.55,32.97,1.42,yes
+2013,Verizon,115.84,120.55,4.71,yes
+2013,Ups,54.12,55.43,1.31,yes
+2013,Nike,24.55,26.38,1.83,yes
+2013,McDonald's,27.56,28.1,0.54,yes
+2013,Michelob Ultra,39.75,43.19,3.44,yes
+2013,SAP,21.11,22.41,1.3,yes
+2013,Delta Air Lines,36.67,37.77,1.1,yes
+2013,StubHub,14.1,8.3,-5.8,no
+2014,Microsoft,83.43,93.46,10.03,yes
+2014,Kia motors,43.83,44.61,0.78,yes
+2014,Ge,142.74,139.14,-3.6,no
+2014,Coca Cola,46.85,46,-0.85,no
+2014,AT&T,128.75,132.45,3.7,yes
+2014,Adidas,19.25,18.71,-0.54,no
+2014,State Farm,68.3,71.2,2.9,yes
+2014,BBVA,32.14,30.01,-2.13,no
+2014,Foot Locker,6.43,7.03,0.6,yes
+2014,Goodyear,19.54,18.14,-1.4,no
+2014,Haier,14.12,14.36,0.24,yes
+2014,Hasbro,4.08,4.28,0.2,yes
+2014,Hp,3.43,3.89,0.46,yes
+2014,intel,52.7,55.87,3.17,yes
+2014,Johnson&Johnson,71.31,74.33,3.02,yes
+2014,Kaiser permanente,1.29,1.35,0.06,yes
+2014,Lenovo,37.18,44.31,7.13,yes
+2014,Macy's,28.07,27.94,-0.13,no
+2014,Mattel,6.48,6.02,-0.46,no
+2014,Nestle,104.11,92.92,-11.19,no
+2014,Nike,26.28,29.75,3.47,yes
+2014,Panasonic,76.16,72.06,-4.1,no
+2014,PepsiCo,66.41,66.68,0.27,yes
+2014,Verizon,120.55,127.07,6.52,yes
+2014,Yum! ,13.08,13.27,0.19,yes
+2014,Accenture,30.52,32.41,1.89,yes
+2014,American express,32.97,33.47,0.5,yes
+2014,Chase,0.21,0.22,0.01,yes
+2014,Cisco,119.92,142.23,22.31,yes
+2014,Capital one,22.38,22.29,-0.09,no
+2014,Instagram,1,0.5,-0.5,no
+2014,Meta,7.87,12.46,4.59,yes
+2014,StubHub,8.3,8.8,0.5,yes
+2014,Tencent,9.87,12.76,2.89,yes
+2014,Twitter,0.66,1.4,0.74,yes
+2014,Samsung,210.86,195.22,-15.64,no
+2014,Toyota,251.82,246.79,-5.03,no
+2014,Pay Pal,6.73,8.02,1.29,yes
+2014,Western Union,5.54,5.61,0.07,yes
+2014,Wells fargo,82.31,81.97,-0.34,no
+2014,SAP,22.41,22.78,0.37,yes
+2014,Hanes,4.62,5.32,0.7,yes
+2014,Hershey's,7.14,7.42,0.28,yes
+2014,Gm,155.42,155.92,0.5,yes
+2014,Hanesbrands,4.62,5.32,0.7,yes
+2014,Accenture,30.52,32.41,1.89,yes
+2014,Bp,379.13,320.25,-58.88,no
+2014,IBM,99.36,92.79,-6.57,no
+2014,Marathon Petroleum,100.16,97.87,-2.29,no
+2014,Oakley,0.03925,0.0064,-0.03285,no
+2014,SiriusXM,3.79,3.18,-0.61,no
+2014,LG,53.57,55.18,1.61,yes
+2015,American express,33.47,32.75,-0.72,no
+2015,Microsoft,93.45,88.08,-5.37,no
+2015,Samsung,195.22,174.66,-20.56,no
+2015,Kia motors,44.61,43.09,-1.52,no
+2015,Mattel,6.02,5.7,-0.32,no
+2015,Goodyear,18.13,16.44,-1.69,no
+2015,Hp,3.89,2.6,-1.29,no
+2015,Under Armour,3.08,3.96,0.88,yes
+2015,Coca Cola,44.29,45.99,1.7,yes
+2015,Toyota,246.79,236.48,-10.31,no
+2015,Nike,29.75,31.33,1.58,yes
+2015,State Farm,71.2,75.7,4.5,yes
+2015,AT&T,132.45,146.8,14.35,yes
+2015,BBVA,30.01,27.6,-2.41,no
+2015,Accenture,32.41,33.03,0.62,yes
+2015,IBM,92.79,81.74,-11.05,no
+2015,Infosys,8.64,9.21,0.57,yes
+2015,Kaiser Permanente,1.35,1.39,0.04,yes
+2015,Marathon Petroleum,97.87,72.05,,no
+2015,PayPal,8.02,9.24,1.22,yes
+2015,SAP,22.78,22.99,0.21,yes
+2015,Yum! ,13.27,13.1,-0.17,no
+2015,Verizon,127.07,131.62,4.55,yes
+2015,Foot Locker,7.03,7.31,0.28,yes
+2015,PepsiCo,66.68,63.05,-3.63,no
+2015,Warner Bros,6.26,6.39,0.13,yes
+2015,McDonald's,27.44,25.41,-2.03,no
+2015,Ford,144.07,149.55,5.48,yes
+2016,Kia motors,43.09,45.87,2.78,yes
+2016,State Farm,75.7,76.1,0.4,yes
+2016,Nike,31.33,33.51,2.18,yes
+2016,UPS,58.36,60.9,2.54,yes
+2016,Western Union,5.48,5.42,-0.06,no
+2016,ESPN,54.31,55.17,0.86,yes
+2016,SAP,22.99,24.29,1.3,yes
+2016,PayPal,9.24,10.84,1.6,yes
+2016,Rakuten,5.91,7.22,1.31,yes
+2016,Kaiser Permanente,1.39,1.33,-0.06,no
+2016,Oracle,37.47,37.23,-0.24,no
+2016,Goodyear,16.44,15.15,-1.29,no
+2016,American express,32.75,33.33,0.58,yes
+2016,BBVA Compass,27.6,28.47,0.87,yes
+2016,Foot Locker,7.31,7.66,0.35,yes
+2016,Chase,0.23,0.24,0.01,yes
+2016,Coca Cola,41.86,44.29,2.43,yes
+2016,AT&T,146.8,163.78,16.98,yes
+2016,Samsung,174.66,175.51,0.85,yes
+2016,McDonald's,25.41,24.62,-0.79,no
+2016,Microsoft,88.8,88.89,0.09,yes
+2016,Hp,2.6,1.5,-1.1,no
+2016,United Airlines,37.86,36.55,-1.31,no
+2016,Verizon,131.62,125.98,-5.64,no
+2016,Toyota,236.48,250.85,14.37,yes
+2016,Hyundai,80.04,81.42,1.38,yes
+2016,Disney,54.31,55.17,0.86,yes
+2016,Warner Bros,6.39,6.49,0.1,yes
+2016,T-Mobile,32.05,37.43,5.38,yes
+2016,Google,74.98,90.27,15.29,yes
+2016,Nestle,90.16,88.13,-2.03,no
+2016,Yum! ,13.1,1.89,-11.21,no
+2016,Taco Bell,,0.45,0.45,yes
+2017,Michelob ultra,45.51,56.44,10.93,yes
+2017,PepsiCo,62.79,63.52,0.73,yes
+2017,Nike,33.51,34.73,1.22,yes
+2017,Under Armour,4.82,4.98,0.16,yes
+2017,Adidas,31.8,40.48,8.68,yes
+2017,American express,33.33,36.01,2.68,yes
+2017,State Farm,76.1,78.3,2.2,yes
+2017,Microsoft,88.89,99.98,11.09,yes
+2017,Samsung,214.57,221.67,7.1,yes
+2017,SAP,24.29,27.02,2.73,yes
+2017,Kia motors,45.87,47.86,1.99,yes
+2017,Delta Air lines,39.63,41.15,1.52,yes
+2017,Goodyear,15.15,15.37,0.22,yes
+2017,Kaiser Permanente,1.33,1.39,0.06,yes
+2017,McDonald's,24.62,22.82,-1.8,no
+2017,Verizon,125.98,126.03,0.05,yes
+2017,Yum! ,1.89,5.87,3.98,yes
+2017,BBVA,28.47,28.23,-0.24,no
+2017,Foot Locker,7.66,7.68,0.02,yes
+2017,Mastercard,10.776,12.497,1.721,yes
+2017,YouTube,8.1,,-8.1,no
+2017,ESPN,55.17,55.5,0.33,yes
+2017,EA Sports,4.62,5.09,0.47,yes
+2017,kia motors,45.87,47.86,1.99,yes
+2018,Microsoft,99.98,118.45,18.47,yes
+2018,Warner Bros,6.87,10.55,3.68,yes
+2018,Kinder,13.71,14.14,0.43,yes
+2018,SAP,27.02,28.97,1.95,yes
+2018,Budweiser,56.44,54.27,-2.17,no
+2018,Coca Cola,32.88,35.41,2.53,yes
+2018,McDonald's,22.82,21.02,-1.8,no
+2018,Foot Locker,7.68,7.87,0.19,yes
+2018,AT&T,160.54,170.75,10.21,yes
+2018,Michelob Ultra,56.44,54.27,-2.17,no
+2018,Samsung,214.57,221.67,7.1,yes
+2018,State Farm,78.3,81.7,3.4,yes
+2018,Johnson&Johnson,76.45,81.58,5.13,yes
+2018,Pizza Hut,5.9,5.7,-0.2,no
+2018,Goodyear,18.13,15.47,-2.66,no
+2018,Taco Bell,0.47,0.5,0.03,yes
+2018,Infosys,10.7,11.54,0.84,yes
+2018,American express,36.01,40.31,4.3,yes
+2018,Delta Air Lines,41.15,44.43,3.28,yes
+2018,Facebook,39.94,55.01,15.07,yes
+2018,Twitter,2.44,3.04,0.6,yes
+2018,Capital One,27.23,27.57,0.34,yes
+2018,Google,110.85,136.81,25.96,yes
+2018,Haier,23.91,27.39,3.48,yes
+2018,Kia motors,47.86,49.21,1.35,yes
+2018,Lenovo,44.29,49.96,5.67,yes
+2018,Nike,34.73,38.09,3.36,yes
+2018,Panasonic,70.41,73.99,3.58,yes
+2018,Under Armour,4.98,5.19,0.21,yes
+2018,Verizon,126.03,130.86,4.83,yes
+2018,Logitech,2.48,2.75,0.27,yes
+2018,Keurig Dr Pepper,6.69,7.44,0.75,yes
+2018,Cisco,47.78,50.26,2.48,yes
+2018,EA Sports,5.09,5.29,0.2,yes
+2018,ExxonMobil,237.116,279.332,42.216,yes
+2018,Hanes,6.471,6.804,0.333,yes
+2018,Master Card,12.497,14.95,2.453,yes
+2018,Twitch,0.3,0.88,0.58,yes
+2018,Yum! ,5.87,5.68,-0.19,no
+2018,Western Union,5.52,5.59,0.07,yes
+2018,PepsiCo,63.52,64.66,1.14,yes
+2018,Wilson,0.8,0.77,-0.03,no
+2018,Hershey's,7.515,7.791,0.276,yes
+2018,PayPal,13.09,15.45,2.36,yes
+2018,Tencent,35.53,46.91,11.38,yes
+2018,T-Mobile,40.6,43.31,2.71,yes
+2018,Ups,66.43,71.86,5.43,yes
+2019,Puma,5.46,6.14,0.68,yes
+2019,Nike,38.09,40.78,2.69,yes
+2019,Timberland,1.39,3.1,1.71,yes
+2019,Under Armour,5.19,5.26,0.07,yes
+2019,Kia motors,49.21,49.98,0.77,yes
+2019,PepsiCo,64.66,67.16,2.5,yes
+2019,American express,40.31,43.55,3.24,yes
+2019,State Farm,81.7,79.35,-2.35,no
+2019,Kaiser Permanente,1.58,1.51,-0.07,no
+2019,AT&T,181.19,171.76,-9.43,no
+2019,EA Sports,5.29,5.38,0.09,yes
+2019,SAP,28.97,30.81,1.84,yes
+2019,Autotrader,0.438,0.466,0.028,yes
+2019,ExxonMobil,279.332,264.94,-14.392,no
+2019,Taco Bell,0.5,0.51,0.01,yes
+2019,Wilson,0.77,0.56,-0.21,no
+2019,Google,136.81,161.85,25.04,yes
+2019,Coca Cola,37.26,32.88,-4.38,no
+2019,McDonald's,21.02,21.28,0.26,yes
+2019,Infosys,11.54,12.64,1.1,yes
+2019,TCL,5.3,10.88,5.58,yes
+2019,Foot Locker,7.87,8.05,0.18,yes
+2019,Tencent,46.91,54.47,7.56,yes
+2019,Microsoft,118.45,134.24,15.79,yes
+2019,StubHub,8.7,7.4,-1.3,no
+2019,Rakuten,9.98,11.59,1.61,yes
+2019,Michelob Ultra,54.27,52.33,-1.94,no
+2019,Caesars sportsbook,2.05,2.52,0.47,yes
+2020,DoorDash,,2.88,2.88,yes
+2020,State Farm,79.395,78.9,-0.495,no
+2020,SAP,30.81,31.72,0.91,yes
+2020,Michelob ultra,52.33,46.88,-5.45,no
+2020,Adidas,63.63,71.47,7.84,yes
+2020,Kia motors,49.98,50.94,0.96,yes
+2020,American express,43.55,36.17,-7.38,no
+2020,Wilson,0.56,0.45,-0.11,no
+2020,Coca Cola,33.01,37.26,4.25,yes
+2020,FanDuel,0.49,0.89,0.4,yes
+2020,PepsiCo,67.16,70.37,3.21,yes
+2020,Ticketmaster,11.5,1.9,-9.6,no
+2020,Foot Locker,8.05,7.58,-0.47,no
+2020,Under Armour,5.26,4.47,-0.79,no
+2020,AT&T,181.19,171.76,-9.43,no
+2020,Caesars Sportsbook,2.52,3.54,1.02,yes
+2020,Puma,6.14,6.09,-0.05,no
+2020,Draftkings,,0.61,0.61,yes
+2020,Rakuten,11.59,13.74,2.15,yes
+2020,Google,161.85,182.52,20.67,yes
+2020,Carmax,19.67,18.74,-0.93,no
+2020,Microsoft,134.24,153.28,19.04,yes
+2020,Nike,40.78,38.25,-2.53,no
+2020,EA sports,5.38,5.67,0.29,yes
+2021,Puma,6.09,7.91,1.82,yes
+2021,Visa,21.846,24.105,2.259,yes
+2021,Servicenow,4.51,5.89,1.38,yes
+2021,SAP,31.72,32.35,0.63,yes
+2021,State Farm,78.9,87.6,8.7,yes
+2021,Google,181.69,256.74,75.05,yes
+2021,Microsoft,153.28,184.9,31.62,yes
+2021,Mastercard,15.301,18.88,3.579,yes
+2021,PepsiCo,70.37,79.47,9.1,yes
+2021,Nike,38.25,46.3,8.05,yes
+2021,Under Armour,4.47,5.68,1.21,yes
+2021,Kia motors,50.94,60.26,9.32,yes
+2021,Coca Cola,38.65,33.01,-5.64,no
+2021,Kaiser Permanente,1.17,2.62,1.45,yes
+2021,Taco Bell,0.49,0.48,-0.01,no
+2021,Wilson,0.45,0.45,0,no
+2021,Adidas,71.47,55.08,-16.39,no
+2021,Disney,60.76,72.98,12.22,yes
+2021,ExxonMobil,181.5,276.69,95.19,yes
+2021,Goodyear,12.32,17.47,5.15,yes
+2021,AT&T,171.76,151.56,-20.2,no
+2021,Warner Bros,10.67,12.19,1.52,yes
+2021,Michelob ultra,46.88,54.3,7.42,yes
+2021,Lenovo,55.69,70.55,14.86,yes
+2021,Mattel,4.38,5.45,1.07,yes
+2021,Lowe's,90,89.57,-0.43,no
+2021,Scotiabank,32.529,31.237,-1.292,no
+2021,Mondelez,26.58,28.72,2.14,yes
+2021,LegalZoom,0.47,0.57,0.1,yes
+2021,EA sports,5.67,6.51,0.84,yes
+2021,Louis Vuitton,76,83.48,7.48,yes
+2021,Amazon,386.06,469.82,83.76,yes
+2021,Verizon,128.29,133.61,5.32,yes
+2021,BetMGM,8.8,9.68,0.88,yes
+2021,Clorox,7.52,7.08,-0.44,no
+2021,FanDuel,0.89,1.99,1.1,yes
+2021,MoetHennessy,44.61,69.9,25.29,yes
+2021,Rakuten,13.74,15,1.26,yes
+2021,Ticketmaster,1.9,6.3,4.4,yes
+2021,MetLife,67.88,67.26,-0.62,no
+2021,United Airlines,15.35,24.63,9.28,yes
+2021,Turner Sports,,,,no
+2021,Twitter,3.71,5.07,1.36,yes
+2021,Meta,85.96,117.92,31.96,yes
+2021,Hulu,4.4,5.8,1.4,yes
+2021,Facebook,84.17,117.93,,no
+2021,Instagram,26.8,47.6,20.8,yes
+2021,Walmart,548.74,571.96,23.22,yes
+2021,Foot Locker,7.58,8.8,1.22,yes
+2021,T-Mobile,68.39,80.11,,no
+2021,FedEx,74.72,89.55,14.83,yes
+2021,Discover,12.95,13.221,0.271,yes
+2021,PlayStation,24,24.6,0.6,yes
+2021,Triscuit,26.58,28.72,2.14,yes
+2021,ESPN,60.76,72.98,12.22,yes
+2021,Hyundai,89.48,101.4,11.92,yes
+2022,Louis Vuitton,85.937,69.691,-16.246,no
+2022,Goodyear,17.47,20.8,3.33,yes
+2022,DoorDash,4.88,6.58,1.7,yes
+2022,Goldman Sachs,59.33,47.36,-11.97,no
+2022,Caesars Sportsbook,9.57,10.82,1.25,yes
+2022,ServiceNow,5.89,7.24,1.35,yes
+2022,SAP,32.35,31.47,-0.88,no
+2022,Hisense,7.24,6.74,-0.5,no
+2022,Toyota,276.57,267.02,-9.55,no
+2022,Verizon,133.61,136.83,3.22,yes
+2022,Coca Cola,43,38.65,-4.35,no
+2022,Ford,136.34,158.05,21.71,yes
+2022,Comcast,116.38,121.42,5.04,yes
+2022,Progressive,47.67,49.58,1.91,yes
+2022,Nexen Tire,2.08,2.6,0.52,yes
+2022,Chime,0.95,1.85,0.9,yes
+2022,Taco Bell,0.48,,-0.48,no
+2022,Kaiser Permanente,2.62,3.42,0.8,yes
+2022,Kumho tire,1.945,2.662,0.717,yes
+2022,New era,1.2,2.9,1.7,yes
+2022,AT&T,151.96,120.74,-31.22,no
+2022,You Tube TV,29.2,28.8,-0.4,no
+2022,BetMGM,0.846,1.44,0.594,yes
+2022,DraftKings,1.29,2.24,0.95,yes
+2022,Puma,7.91,8.89,0.98,yes
+2022,Rakuten,15,14.45,-0.55,no
+2022,CarMax,29.37,31.64,2.27,yes
+2022,Microsoft,184.9,204.09,19.19,yes
+2022,New Balance,4.4,5.3,0.9,yes
+2022,Adidas,55.08,24.82,-30.26,no
+2022,Nike,46.3,49.1,2.8,yes
+2022,EA sports,6.51,7.37,0.86,yes
+2022,American express,43.14,52.56,9.42,yes
+2022,Under Armour,5.68,5.8,0.12,yes
+2022,State Farm,82.2,89.3,7.1,yes
+2022,Moet Hennessy,69.9,86.5,16.6,yes
+2022,Coinbase,7.83,3.19,-4.64,no
+2022,Getty,0.69,0.92,0.23,yes
+2022,LegalZoom,0.57,0.62,0.05,yes
+2022,Mondelez,28.72,31.49,2.77,yes
+2022,Sony,88.05,76.58,-11.47,no
+2022,Sportrader,0.73,0.561,-0.169,no
+2022,Kia,60.26,66.53,6.27,yes
+2022,TCS,24.93,27.18,2.25,yes
+2022,Infosys,15.64,17.93,2.29,yes
+2022,Budweiser,54.3,57.78,3.48,yes
+2022,Michelob ultra,54.3,57.78,3.48,yes
+2022,Pepsi,79.87,86.39,6.52,yes
+2022,Starbucks,30.36,32.91,2.55,yes
+2022,Capital one,30.43,34.25,3.82,yes
+2022,Chase,0.3,0.35,0.05,yes
+2022,USAA,37.5,36,-1.5,no
+2022,Humana,83.06,92.87,9.81,yes
+2022,UnitedHealthcare,287.59,324.16,36.57,yes
+2022,Aetna,82.9,91.4,8.5,yes
+2022,Cigna,174.29,180.06,5.77,yes
+2022,CVS Health,292.11,322.46,30.35,yes
+2022,FedEx,89.55,94.09,4.54,yes
+2022,UPS,97.28,100.33,3.05,yes
+2022,Google Cloud,19.206,26.28,7.074,yes
+2022,Oracle,41.4,46.07,4.67,yes
+2022,IBM,43.91,60.52,16.61,yes
+2022,Cisco,50.78,52.28,1.5,yes
+2022,HP,1.38,2.36,0.98,yes
+2022,Dell,99.31,99.45,0.14,yes
+2022,Lenovo,70.55,66,-4.55,no
+2022,Samsung,240.71,233.13,-7.58,no
+2022,LG Electronics,64,64.41,0.41,yes
+2022,Sony,88.05,76.58,-11.47,no
+2022,Twitter,5.07,5.22,0.15,yes
+2022,Facebook,117.93,120.18,2.25,yes
+2022,Instagram,47.6,51.4,3.8,yes
+2022,TikTok,1.578,2.864,1.286,yes
+2022,Snapchat,4.117,4.601,0.484,yes
+2022,You Tube,28.8,29.2,0.4,yes
+2022,Twitch,2.67,2.8,0.13,yes
+2022,Hulu,9.6,10.7,1.1,yes
+2022,ESPN,72.98,84.1,11.12,yes
+2022,KPMG,34.64,32.13,-2.51,no
+2022,Aramark,12.1,16.3,4.2,yes
+2022,Delta Air Lines,29.9,50.58,20.68,yes
+2022,Mattel,5.45,5.43,-0.02,no
+2022,Accenture,53.73,62.37,8.64,yes
+2022,PayPal,25.37,27.51,2.14,yes
+2022,Workday,4.89,5.94,1.05,yes
+2022,Warner Bros,12.19,33.81,21.62,yes
+2022,Amazon,469.82,513.98,44.16,yes
+2022,Citizens,0.25,0.23,-0.02,no
+2022,Ally Financial,8.78,9.24,0.46,yes
+2022,Intuit,10.31,13.31,3,yes
+2022,Keurig Dr Pepper,12.68,14.05,1.37,yes
+2022,Marathon petroleum,119.98,177.45,57.47,yes
+2022,MoneyGram,1.28,1.31,0.03,yes
+2022,Nestle,95.73,102.59,6.86,yes
+2022,Procter & Gamble,78.34,80.28,1.94,yes
+2022,Unilever,6.85,7.36,0.51,yes
+2022,Yum! ,6.58,6.84,0.26,yes
+2022,Western Union,5.07,4.48,-0.59,no
+2022,Wells Fargo,78.49,73.99,-4.5,no
+2022,Adobe,15.78,17.6,1.82,yes
+2022,Ring central,1.59,1.98,0.39,yes
+2022,Webull,5.78,7.9,2.12,yes
+2022,Motorola,8.17,9.11,0.94,yes
+2022,BSE Global,93.15,99.6,6.45,yes
+2023,Rakuten,14.45,14.78,0.33,yes
+2023,Webull,7.9,8.58,0.68,yes
+2023,Bibigo,31.47,31.58,0.11,yes
+2023,You Tube TV,29.2,31.5,2.3,yes
+2023,Foot Locker,8.76,8.13,-0.63,no
+2023,Microsoft,204.09,227.58,23.49,yes
+2023,State Farm,89.3,104.2,14.9,yes
+2023,Kia motors,66.54,75.37,8.83,yes
+2023,PepsiCo,86.39,91.47,5.08,yes
+2023,Spalding,2,1.3,-0.7,no
+2023,AT&T,120.74,121.74,1,yes
+2023,Gatorade,6.5,7,0.5,yes
+2023,Fan Duel,3.23,12.1,8.87,yes
+2023,Geico,38.98,25.5,-13.48,no
+2023,SAP,31.47,33.54,2.07,yes
+2023,Kaiser Permanente,3.42,3.14,-0.28,no
+2023,Yum! ,6.84,7.08,0.24,yes
+2023,Fanatics,4,8,4,yes
+2023,Visa,30.19,33.35,0.24,yes
+2023,MasterCard,22.24,25.1,2.86,yes
+2023,Google,282.84,307.39,24.55,yes
+2023,Verizon,136.84,133.97,-2.87,no
+2023,Delta Air Lines,50.58,58.05,7.47,yes
+2023,Nike,49.11,51.54,2.43,yes
+2023,Bet MGM,1.44,1.96,0.52,yes
+2023,Amazon,513.98,574.97,60.99,yes
+2023,Google Cloud,26.08,33.088,7.008,yes
+2023,You Tube TV,31.5,29.2,-2.3,no
+2023,Meta,116.61,134.9,18.29,yes
+2023,PayPal,27.52,29.77,2.25,yes
+2023,UPS,100.34,90.96,-9.38,no
+2023,United Airlines,44.96,52.49,7.53,yes
+2023,FedEx,94.09,87.95,-6.14,no
+2023,McDonald's,23.18,25.49,2.31,yes
+2023,Walmart,600.11,638.79,38.68,yes
+2023,Disney,84.42,88.94,4.52,yes
+2023,DraftKings,2.24,3.67,1.43,yes
+2023,Under Armour,5.81,5.77,-0.04,no
+2023,ESPN,84.1,88.93,4.83,yes
+2023,Mountain Dew,86.392,91.47,5.078,yes
+2023,Wipro,11.05,11.13,0.08,yes
+2023,Infosys,17.94,18.55,0.61,yes
+2023,Goodyear,20.81,20.07,-0.74,no
+2023,TNT,,7.5,7.5,yes
+2023,Tencent,82.03,85.01,2.98,yes
+2023,Hulu,10.7,11.2,0.5,yes
+2023,TCL,24.2,24.9,0.7,yes
+2023,Western Union,4.48,4.36,-0.12,no
+2023,Powerade,1.1,1.2,0.1,yes
+2023,Coca Cola,45.3,48.2,2.9,yes
+2023,ABC,241.81,254.52,12.71,yes
+2023,Geico,38.9,39.8,0.9,yes
+2023,Wells Fargo,73.99,82.6,8.61,yes
+2023,Humana,92.87,106.37,13.5,yes
+2023,Prudential,60.05,50.894,-9.156,no
+2023,Taco Bell,6.842,7.076,0.234,yes
